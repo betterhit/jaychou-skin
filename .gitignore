@@ -1,0 +1,12 @@
+# 打包产物（重新打包即可生成）
+*.tgz
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/

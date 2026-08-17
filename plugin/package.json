@@ -1,0 +1,22 @@
+{
+  "name": "jaychou-skin",
+  "version": "0.1.0",
+  "private": true,
+  "description": "周杰伦主题皮肤（DeepSeek Harness Web）：午夜蓝 × 鎏金 × 单封面氛围光",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-theme"
+      ],
+      "immediately": true
+    }
+  }
+}
