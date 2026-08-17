@@ -5,7 +5,8 @@
 
 > ⚠️ **版权声明**：本皮肤内嵌的专辑封面取自 Wikipedia（非自由版权缩略图），**仅限个人本地使用，请勿公开分发或商用**。若需公开，请先替换为自有授权的图片。
 
-![screenshot](screenshot.png)
+<img width="1440" height="900" alt="screenshot" src="https://github.com/user-attachments/assets/70d2de9e-6565-4ab8-a51a-f28bbd971823" />
+
 
 ## 特性
 
